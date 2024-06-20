@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zip-code-task/static/css/main.266e1ddc.css",
+    "main.js": "/zip-code-task/static/js/main.b4996caa.js",
+    "index.html": "/zip-code-task/index.html",
+    "main.266e1ddc.css.map": "/zip-code-task/static/css/main.266e1ddc.css.map",
+    "main.b4996caa.js.map": "/zip-code-task/static/js/main.b4996caa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.266e1ddc.css",
+    "static/js/main.b4996caa.js"
+  ]
+}
